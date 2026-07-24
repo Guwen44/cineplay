@@ -16,8 +16,3 @@ Portal de filmes e séries com recurso de sessão, login e sistema de comentári
 - Verifique a versão do framework utilizada no projeto através do arquivo ".csproj" (modifique caso não esteja atualizada).
 - Execute o projeto através do comando "dotnet run" no terminal.
 - Abra o projeto em seu browser utilizando o servidor local.
-
-## Preview 📷
-
-<img width="600px" src="https://github.com/rafael-vaz/streaming-video-asp.net-core-mvc/blob/main/cineplay-website02-preview.jpg?raw=true">
-<img width="600px" src="https://github.com/rafael-vaz/streaming-video-asp.net-core-mvc/blob/main/cineplay-website01-preview.jpg?raw=true">
