@@ -21,9 +21,3 @@ Portal de filmes e séries com recurso de sessão, login e sistema de comentári
 
 <img width="600px" src="https://github.com/rafael-vaz/streaming-video-asp.net-core-mvc/blob/main/cineplay-website02-preview.jpg?raw=true">
 <img width="600px" src="https://github.com/rafael-vaz/streaming-video-asp.net-core-mvc/blob/main/cineplay-website01-preview.jpg?raw=true">
-
-## Link do website 🌎
-
-Você pode analisar melhor o front-end do sistema acessando o link abaixo:
-
-https://cineplay.netlify.app/index.html
